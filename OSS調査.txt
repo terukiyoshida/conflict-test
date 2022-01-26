@@ -1,0 +1,54 @@
+Inkscape 
+【概要】 
+ベクター画像(SVG)を高品質で作成・編集できるソフトウェア 
+Adobe Illustrator のようなオープンソースソフトウェア 
+
+【歴史】 
+2003年にプロジェクトが開始 
+それから順調に開発は継続されており、最新版は2021年5月に正式リリースされた 
+なお元のベクター画像編集ソフトであるSodipodiは2004年で事実上開発が停止されている 
+
+【ソースコードのURL】 
+https://gitlab.com/inkscape/inkscape 
+
+【ライセンス】 
+GNU General Public License 
+ 
+
+Open 3D Engine 
+【概要】 
+Amazonが開発してきた3Dゲームエンジンの「Amazon Lumberyard」がオープンソース化されたもの 
+ゲームから映画、シミュレーションまで、あらゆるものに対応できるように作られたクロスプラットフォームの3Dエンジン 
+
+【歴史】 
+2016年に開発がスタートしたAmazonのゲームエンジン「Amazon Lumberyard 」が2021年7月からオープンソース化されて誕生した。 
+
+【ソースコードのURL】 
+https://github.com/o3de/o3de/ 
+
+【ライセンス】 
+Apache 2.0ライセンス 
+ 
+
+Visual Studio Code 
+【概要】 
+Microsoftが開発しているWindows、Linux、macOS、web用のソースコードエディタ 
+とにかく多機能で拡張性も高く便利 
+
+【ソースコードのURL】 
+https://github.com/microsoft/vscode 
+
+【ライセンス】 
+MITライセンス  
+
+
+Atom 
+【概要】 
+GitHubが開発したオープンソースのテキストエディタ 
+「21世紀のためのハック可能なテキストエディタ 」をキャッチコピーとしている 
+
+【ソースコードのURL】 
+https://github.com/atom/atom 
+
+【ライセンス】 
+MITライセンス 
