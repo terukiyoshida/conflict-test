@@ -1,4 +1,27 @@
+1
 os:ubuntu
 DB:mariaDB
 PHP
 Apach
+
+2
+os:Arch(64bit)
+https://www.archlinux.jp/download/
+Vagrant イメージ
+libvirt と virtualbox で使える Vagrant イメージが Vagrant Cloud に存在します。以下のコマンドでイメージをブートストラップすることが可能です:
+vagrant init archlinux/archlinux
+vagrant up
+
+wgetインストール
+https://wiki.archlinux.jp/index.php/Wget
+vimインストール
+https://wiki.archlinux.jp/index.php/Vim
+ufw
+https://wiki.archlinux.jp/index.php/Uncomplicated_Firewall
+DB:mariaDB
+https://wiki.archlinux.jp/index.php/MariaDB
+PHP
+https://wiki.archlinux.jp/index.php/PHP
+Apach
+https://wiki.archlinux.jp/index.php/Apache_HTTP_Server
+https://wiki.archlinux.jp/index.php/Wordpress
