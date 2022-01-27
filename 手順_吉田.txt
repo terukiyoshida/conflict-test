@@ -1,0 +1,4 @@
+os:ubuntu
+DB:mariaDB
+PHP
+Apach
